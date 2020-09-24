@@ -1,0 +1,75 @@
+@CHARSET "UTF-8";
+
+
+#frm{
+	width:250px;
+	padding-top:5%;
+	margin: 10px 0 0 300px;	
+	background:white;
+	
+}
+.write{
+	padding-bottom:10px;
+	width:56%;
+	height:1500px;
+
+}
+ 
+input[type=button]{
+  background-color:write;
+  color: black;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:'Jua', sans-serif; 
+  font-size: 12px;
+  font-weight:bold;
+  margin: 1px 1px;
+  cursor: pointer;
+  border:1px solid #E8D9FF;
+  
+}
+
+.wbut2{
+	margin-top:30px;
+	margin-left:10%;
+	text-align:justify;
+
+}
+.wbut1{
+
+	margin-top:40px;
+	text-align:right;
+}
+
+
+
+.img_wrap{
+	width:300px;
+	margin-top: 30px;
+}
+
+
+.img_wrap img {
+	max-width: 100%;
+	width: 300px;
+	height: 250px;	
+	border: 3px dashed #5CD1E5;
+	margin-left: 30px;
+}
+
+.fakebtn{
+	
+	position:relative;
+	left:114%;
+	bottom:37px;
+}
+.fakebtn:hover{
+	
+	position:relative;
+	left:114%;
+	bottom:37px;
+	background-color:#B2EBF4;
+
+}

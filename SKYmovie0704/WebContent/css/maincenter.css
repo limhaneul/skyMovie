@@ -1,0 +1,146 @@
+@CHARSET "UTF-8";
+.maincenter{
+
+		width:830px;
+		background-color: #f2f2f2;
+		margin-top: 0;
+		margin-left:270px;
+		height:2500px;
+
+}
+.mainceterBW > li{
+	list-style: none;
+	margin-bottom:4.0%;
+	margin-top:2.0%;
+}
+
+.mainceterBW  a{
+
+ text-decoration: none;
+ color:black;
+ font-size: 15%;
+  white-space: nowrap; 
+  width:10%; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  height: 20px;  
+
+}
+
+.bestReview1,.worstReview1{
+	background:white;
+	margin-left:3%;
+	width:380px;
+	border:1px solid #FFD9EC;
+	/* height:456px; */
+	height:450px;
+	border-radius:15px;
+}
+
+.worstReview1{
+
+	position:relative;
+	left:400px;
+	bottom:430px;
+	
+		
+
+
+
+}
+
+.bestReview1{
+
+position:relative;
+top:20px;
+}
+
+.ranking_wrap{
+	border-radius:5px;
+	padding:6px;
+	border:1px solid #E8D9FF;
+	font-size: 10%;
+}
+
+
+.bestReview{
+		font-size:17px;
+		position:relative;
+		right:120px;
+		width:400px;
+ 
+}
+.worstReview{
+	
+  font-size:17px;
+  text-align:center;
+}
+
+.bestnum1
+{
+	border:1px solid white;
+	color:white;
+	background-color:#FFA7A7;
+
+}
+
+.bestnum2
+{
+	border:1px solid white;
+	color:white;
+	background-color:#6EE3F7;
+
+}
+
+.bestnum3{
+	border:1px solid white;
+	color:white;
+	background-color:#ABF200;
+
+}
+.movieScreen{
+	margin:0 auto;
+	position:relative;
+	top:150px;
+	right: 420px;
+	
+	
+	
+}
+
+.selection{
+	
+	margin:0 auto;
+	position:relative;
+	left:250px;
+	bottom:30px;
+}
+
+.bando{
+ 	margin:0 auto;
+	position:relative;
+	left:590px;
+	bottom:453px;
+	width:234px;
+/* 	width:55.5%; */
+	height:450px; 
+/*  	margin:-100% 0 4.2% 156%; */
+ 
+ }
+
+
+
+
+
+.obyoutube{
+	
+	 width:155%;
+	 height:450px;
+	
+	
+}
+
+
+
+
+

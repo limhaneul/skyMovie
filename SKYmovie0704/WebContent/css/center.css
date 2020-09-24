@@ -1,0 +1,119 @@
+@CHARSET "UTF-8";
+
+.bak{
+	width:54%;
+	margin-left:18%;
+	background-color: #f2f2f2;
+	height:1500px;
+}
+
+#update1{
+	float:left;
+	margin-top: 20px;
+	margin-left:20px;
+}
+
+#join{
+	float:left;
+	margin-top: 35px;
+	margin-left:71px;
+}
+
+
+.subtitle{
+	line-height:75px; 
+	color:black;
+	font-size:40px;
+	margin-left:75px;
+	height:50px;
+	width:200px;
+}
+lable,input{
+	margin-bottom: 20px;
+}
+
+.inputcss{
+  height: 30px;
+  width:200px;
+  background: white;
+  border: 1px solid black;
+  font-size: 10pt;
+  color: #63717f;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px
+}
+
+
+
+input[type=submit] {
+  background-color: #006f84;
+  color: white;
+  cursor: pointer;
+}
+.updatetitle{
+	line-height:75px; 
+	color:black;
+	font-size:40px;
+	margin-left:30px;
+	height:50px;
+	width:200px;
+}
+.id ,#message{
+	margin-left: 50px;
+}
+#subcheck{
+	margin-left: 100px;
+}
+.name{
+	margin-left: 62px;
+}
+.passwd{
+	margin-left: 33px;
+}
+.passwd2{
+	margin-left: -2px;
+}
+
+.gender{
+	
+	margin-left:60px;
+}
+
+.email,.tel{
+		margin-left:45px;
+}
+
+.email1{
+		margin-left:54px;
+}
+.address{
+	margin-left:100px;
+	 width:330px;
+	
+}
+
+.age{
+	height: 30px;
+	width:100px;
+	background: white;
+    border: 1px solid black;
+    font-size: 10pt;
+    color: #63717f;
+     margin-left:62px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+     border-radius: 5px	
+}
+
+.list{
+}
+
+.subnameUp{
+	line-height:75px; 
+	color:black;
+	font-size:40px;
+	margin-left:30px;
+	height:50px;
+	width:200px;
+}

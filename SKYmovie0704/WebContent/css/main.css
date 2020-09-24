@@ -1,0 +1,193 @@
+@CHARSET "UTF-8";
+
+*{
+	margin:0; padding:0;
+}
+li{list-style:none;}
+a{text-decoration:none;}
+
+
+button , button > a {
+  background-color:write;
+  color: black;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:'Jua', sans-serif; 
+  font-size: 12px;
+  font-weight:bold;
+  margin: 1px 1px;
+  cursor: pointer;
+  border:1px solid #E8D9FF;
+}
+
+
+.wrapper{/* width:1175px; */ 
+
+width:72%;
+
+margin:0 auto; }
+
+/*header*/
+
+header{
+	height:85px; background-color:#006f84; border:1px solid #253342;
+	position: fiexd; width: 100%; z-index:9999; top:0; left:0;
+}
+
+#popcon{
+	clear:both;
+	margin-left:-280px;
+	width:75px;
+	height:78.0px;
+}
+
+
+
+.skymovie{line-height:75px; 
+	float:left;/*로고*/
+	color:white;
+	/* font-family: 'Piedra', cursive;
+	 */	
+	 font-family:'Jua', sans-serif; 
+	font-size:40px;
+	margin-left:150px;
+	margin-top:25px;
+	width:200px; 
+	
+}
+
+#hmenu{  margin-top:1px;
+			float:right;}
+#hmenu>td{
+		border:1px solid black;
+	}
+		
+#hmenu a{line-height:73px; color:white; padding:0 15px; 
+	font-family:'Jua', sans-serif; 
+	font-size:20px;
+	margin-left:15px;
+	border:1px solid 006f84;
+	display:block;
+}
+
+#hmenu a:HOVER{/*상단메뉴 위에 올리시*/
+	color:aqua;
+	background-image:url("../img/blue.gif");
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+
+#but1{
+	/*로그인 회원가입 검색 div*/
+	float:right;
+	margin-top:12px;
+	
+
+}
+
+.databak{
+	clear:both;
+	float:left;
+	clear:both;
+	width:54%;
+	margin-left:18%;
+	background-color: #f2f2f2;
+	height:1000px;
+	margin-top:-255px;
+
+}
+.data{
+  height:50%;
+  width:100%;
+  background: white;
+  margin-top:200px;
+  font-size:20em;
+  border: 1px solid black;
+  font-size: 10pt;
+  color: #400000;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  text-align: left;	
+  font-size: 16px;
+  
+}
+.data > tr{
+	text-align: left;
+}
+
+.list ul{
+	float:right;
+	
+}
+
+
+
+.mainbut{
+	
+  background-color:write;
+  color: black;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:'Jua', sans-serif; 
+  font-size: 12px;
+  font-weight:bold;
+  margin: 1px 1px;
+  cursor: pointer;
+  border:1px solid #E8D9FF;	
+}
+
+
+.logout{
+	
+	float:right;
+	
+	margin-top: 36px;
+	margin-left: 105px;
+	
+}
+.mydata{
+	clear:both;
+	float:left;
+	margin-right:15px;
+	margin-top: -38px;
+	
+}
+.userimg{/*유저 이미지*/
+	width:65px;
+	height:70px;
+	margin-left:63px;
+	margin-top:10px;
+}
+
+#login{
+
+	width:210px;
+	height:180px;
+}
+
+h5{
+	margin-top:5px;
+	font-size:12px;
+	font-family:'Jua', sans-serif; 
+
+}
+
+#sch_f {/*검색창*/
+	top:85px;
+	left:375px;
+	
+}
+
+
+#serimg{/*검색창 옆 아이콘 이미지*/
+	height:15px;
+	width:16px;
+	margin-top:25px;
+}
+
+
